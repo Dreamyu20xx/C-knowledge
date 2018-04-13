@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522595767 source:/home/rwg/c++test/search/main.cpp
+	"MySearch.h"
+	<iostream>
+
+1522595782 /home/rwg/c++test/search/include/MySearch.h
+	<iostream>
+
+1522153507 source:/home/rwg/c++test/search/src/MySearch.cpp
+	"MySearch.h"
+	<iostream>
+

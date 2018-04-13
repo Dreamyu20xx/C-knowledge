@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1522807477 source:/home/rwg/c++test/sort/main.cpp
+	"sort.h"
+	<list>
+	<vector>
+	<iostream>
+
+1522807477 /home/rwg/c++test/sort/include/sort.h
+
+1522807478 source:/home/rwg/c++test/sort/src/sort.cpp
+	"sort.h"
+	<list>
+	<iostream>
+

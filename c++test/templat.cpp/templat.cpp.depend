@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522918345 source:/home/rwg/c++test/templat.cpp/src/main.cpp
+	"Test.h"
+
+1522918768 /home/rwg/c++test/templat.cpp/include/Test.h
+	<iostream>
+
+1522918424 source:/home/rwg/c++test/templat.cpp/src/Test.cpp
+	"Test.h"
+	<iostream>
+

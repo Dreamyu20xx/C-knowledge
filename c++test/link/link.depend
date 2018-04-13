@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1522222186 source:/home/rwg/c++test/link/main.cpp
+	"Link.h"
+	"Node.h"
+
+1522377817 /home/rwg/c++test/link/include/Link.h
+
+1522219102 /home/rwg/c++test/link/include/Node.h
+
+1522222835 source:/home/rwg/c++test/link/src/Link.cpp
+	"Link.h"
+	"Node.h"
+	<iostream>
+
+1522219153 source:/home/rwg/c++test/link/src/Node.cpp
+	"Node.h"
+	<iostream>
+
